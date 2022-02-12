@@ -1,0 +1,11 @@
+{
+  "name": "xlsx/spreadsheet",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.21"
+  }
+}
